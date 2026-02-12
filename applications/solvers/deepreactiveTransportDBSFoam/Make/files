@@ -1,0 +1,2 @@
+reactive.C
+EXE = $(GCFOAM_APPBIN)/deepreactivefoam

@@ -1,0 +1,4 @@
+SOURCE = \
+cfdTools/general/solutionControl/steadyStateControl/steadyStateControl.C \
+
+# sources

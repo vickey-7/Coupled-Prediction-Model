@@ -1,0 +1,3 @@
+processReactionRate.C
+
+EXE = $(GCFOAM_APPBIN)/processReactionRate
